@@ -20,6 +20,8 @@ This project requires the use of these basic HTML skills:
   - Built a repository on GitHub
   - Cloned repository to local machine
   - Utilized _Atomic Commits_ throughout the project
+- GitHub Web Page publishing
+  - To share the finished project, the web-page was published on the world wide web utilizing GitHub to host the page.
 
 ### ADDITIONAL SKILLS
 
